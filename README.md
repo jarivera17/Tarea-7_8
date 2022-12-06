@@ -21,4 +21,18 @@
   12. Determine la corriente a través de cada resistor en cada circuito de la figura 7-63; luego calcule cada
 caída de voltaje.
 
+  14. Determine la resistencia entre A y B en la figura 7-67 sin la fuente.
+  
+  ![image](https://user-images.githubusercontent.com/116693260/205959622-f4660431-9f9f-4238-bd2c-0176bbc25b00.png)
 
+  16. Determine el voltaje en cada nodo con respecto a tierra en la figura 7-68.
+
+  ![image](https://user-images.githubusercontent.com/116693260/205959414-2fe38a6c-9c02-4daf-84f0-d74f7174f726.png)
+
+  18. Determine la resistencia del circuito mostrado en la figura 7-67 como se ve desde la fuente de voltaje.
+  
+  ![image](https://user-images.githubusercontent.com/116693260/205959622-f4660431-9f9f-4238-bd2c-0176bbc25b00.png)
+  
+  20. Determine el voltaje, VAB, en la figura 7-69.
+  
+  ![image](https://user-images.githubusercontent.com/116693260/205973652-465000b8-ec0a-4b43-bf4e-489a66f12f86.png)
