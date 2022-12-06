@@ -36,3 +36,9 @@ caída de voltaje.
   20. Determine el voltaje, VAB, en la figura 7-69.
   
   ![image](https://user-images.githubusercontent.com/116693260/205973652-465000b8-ec0a-4b43-bf4e-489a66f12f86.png)
+  
+  28. En la figura 7-74, determine el voltaje de salida sin carga entre las terminales de salida. Con una carga de 100 kΩ conectada de A a B, ¿cuál es el voltaje de salida? 
+
+  
+  ![image](https://user-images.githubusercontent.com/116693260/206032313-769b8752-dfc1-4d3c-af02-8ee949b5948d.png)
+
