@@ -39,3 +39,9 @@ caída de voltaje.
   
   28. En la figura 7-74, determine el voltaje de salida sin carga entre las terminales de salida. Con una carga de 100 kΩ conectada de A a B, ¿cuál es el voltaje de salida? 
 
+  30. En la figura 7-74, determine la corriente continua extraída de la fuente sin carga entre las terminales de salida. Con una carga de 33 kΩ, ¿cuál es la corriente extraída? 
+  
+  32. El divisor de voltaje de la figura 7-75 tiene una carga controlada por interruptor. Determine el voltaje en cada toma (V1 , V2 y V3 ) para cada posición del interruptor. 
+  
+  ![image](https://user-images.githubusercontent.com/116693260/206041314-4234e817-a65a-47c9-a729-39a0e7d9891a.png)
+
