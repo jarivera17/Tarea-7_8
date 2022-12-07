@@ -45,3 +45,13 @@ caída de voltaje.
   
   ![image](https://user-images.githubusercontent.com/116693260/206041314-4234e817-a65a-47c9-a729-39a0e7d9891a.png)
 
+  SECCIÓN 7–5 Redes en escalera 
+  
+  40. Determine la resistencia total y el voltaje en los nodos A, B y C de la red en escalera mostrada en la figura 7-78.
+
+  ![image](https://user-images.githubusercontent.com/116693260/206177997-7b828724-b98e-4b01-9821-e61c33eb0518.png)
+  
+  42. En la figura 7-79, ¿cuál es el voltaje entre los extremos de cada resistor con 10 V entre A y B?
+  
+  ![image](https://user-images.githubusercontent.com/116693260/206217893-3034f317-3bfc-493f-aeab-276a01a3a5c2.png)
+
