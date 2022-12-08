@@ -62,3 +62,31 @@ caída de voltaje.
   
   ![image](https://user-images.githubusercontent.com/116693260/206286028-bba9ac0c-304b-4e7f-ade6-96e56a16c8d5.png)
 
+  PROBLEMAS CAPÍTULO 8
+  
+  SECCIÓN 8–3 Conversiones de fuente 
+
+  2. Convierta las fuentes de voltaje prácticas de la figura 8-67 en fuentes de corriente equivalentes. 
+
+  ![image](https://user-images.githubusercontent.com/116693260/206360768-98c137e9-5c78-4c1b-874b-72647af6e000.png)
+  
+  ![image](https://user-images.githubusercontent.com/116693260/206360445-a03dd635-2cca-4471-8878-2cc12ed6343d.png)
+
+  4. Trace los circuitos equivalentes de fuentes de voltaje y corriente para la batería tipo D del problema 3
+
+  ![image](https://user-images.githubusercontent.com/116693260/206360495-a451afaf-41d6-4f7b-9e4b-ead0e2ef0d26.png)
+
+  ![image](https://user-images.githubusercontent.com/116693260/206360523-f481a804-21e0-4e0e-ba6d-243762600c88.png)
+
+  6. Convierta las fuentes de corriente prácticas de la figura 8-68 en fuentes de voltaje equivalentes. 
+
+  ![image](https://user-images.githubusercontent.com/116693260/206360639-5e560f8d-a5c8-4690-9a95-89348e8cc579.png)
+
+  ![image](https://user-images.githubusercontent.com/116693260/206360672-f9c345dc-c377-44f7-a0b1-e23f697ea560.png)
+  
+  SECCIÓN 8–4 El teorema de superposición 
+
+  8. Use el teorema de superposición para determinar la corriente a través, y el voltaje entre, los extremos de la rama R2 de la figura 8-69.
+
+  ![image](https://user-images.githubusercontent.com/116693260/206360287-e7ec3851-110d-43e0-899e-ca4a237d3205.png)
+
