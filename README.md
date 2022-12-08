@@ -90,3 +90,6 @@ caída de voltaje.
 
   ![image](https://user-images.githubusercontent.com/116693260/206360287-e7ec3851-110d-43e0-899e-ca4a237d3205.png)
 
+  10. Con el teorema de superposición, determine la corriente de carga en cada uno de los circuitos mostrados en la figura 8-71. 
+  
+  
