@@ -55,3 +55,10 @@ caída de voltaje.
   
   ![image](https://user-images.githubusercontent.com/116693260/206217893-3034f317-3bfc-493f-aeab-276a01a3a5c2.png)
 
+  44. Determine VSALIDA para la red R/2R en escalera mostrada en la figura 7-81 para las siguientes condiciones: 
+
+  (a) Interruptor SW2 conectado a 112 V y los demás conectados a tierra 
+  (b) Interruptor SW1 conectado a 112 V y los demás conectados a tierra
+  
+  ![image](https://user-images.githubusercontent.com/116693260/206286028-bba9ac0c-304b-4e7f-ade6-96e56a16c8d5.png)
+
