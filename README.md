@@ -92,4 +92,10 @@ caída de voltaje.
 
   10. Con el teorema de superposición, determine la corriente de carga en cada uno de los circuitos mostrados en la figura 8-71. 
   
+  22. Determine el equivalente de Thevenin del circuito mostrado en la figura 8-82 visto desde las terminales A y B. 
   
+  SECCIÓN 8–6 Teorema de Norton
+
+  24. Con el teorema de Norton, determine la corriente que circula a través del resistor de carga RL en la figura 8-77.
+
+
