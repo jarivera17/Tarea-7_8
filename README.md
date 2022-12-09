@@ -1,3 +1,39 @@
+![1](https://user-images.githubusercontent.com/116693260/206773795-e95c103f-fa9e-42d3-a866-a8de897ab22a.jpg)
+
+![2](https://user-images.githubusercontent.com/116693260/206773800-2cf6de3d-2daa-4f29-accc-6b2b2bb60515.jpg)
+
+![3](https://user-images.githubusercontent.com/116693260/206773806-2b2d78f8-5899-452f-88a7-101a152566ea.jpg)
+
+![4](https://user-images.githubusercontent.com/116693260/206773810-f42aef74-dd45-44ca-b9db-ca727f1ac93e.jpg)
+
+![5](https://user-images.githubusercontent.com/116693260/206773816-e245d945-0d27-4d8c-a9b0-987542b8ade9.jpg)
+
+![6](https://user-images.githubusercontent.com/116693260/206773818-8f825b29-1cdd-4ca0-98a0-48bf2e81e4e5.jpg)
+
+![7](https://user-images.githubusercontent.com/116693260/206773824-cf1d56ea-3fe1-4a17-8cb3-d889461737a7.jpg)
+
+![8](https://user-images.githubusercontent.com/116693260/206773826-dffd4fc2-284c-4cd2-8dfa-4eb0ad549d50.jpg)
+
+![9](https://user-images.githubusercontent.com/116693260/206773831-1c8dee8f-dfaf-430b-9180-56e803360749.jpg)
+
+![10](https://user-images.githubusercontent.com/116693260/206773835-751d64f0-95d1-44e0-a05d-dbdd3a48597e.jpg)
+
+![11](https://user-images.githubusercontent.com/116693260/206773840-dbf24639-9c2e-47c6-9ae1-7022ede944df.jpg)
+
+![12](https://user-images.githubusercontent.com/116693260/206773842-77378d4d-b038-479a-9891-129ea60762cc.jpg)
+
+![13](https://user-images.githubusercontent.com/116693260/206773848-6951c081-7a48-4fe8-9a18-b12fb277365a.jpg)
+
+![14](https://user-images.githubusercontent.com/116693260/206773851-c525f61f-3556-41c2-8a01-e28d8211ab8c.jpg)
+
+![15](https://user-images.githubusercontent.com/116693260/206773855-258f9fc1-1244-42fd-855a-8dfd97000165.jpg)
+
+![16](https://user-images.githubusercontent.com/116693260/206773858-f0dc41d4-1cfe-4846-92fe-7b44ff1747fe.jpg)
+
+![17](https://user-images.githubusercontent.com/116693260/206773865-41ab6ffd-888b-44f6-b04f-2ca9d845b568.jpg)
+
+![18](https://user-images.githubusercontent.com/116693260/206773868-bc113c71-3dfe-4215-b1ef-73d2a17f4a95.jpg)
+
   2. Visualice y trace los siguientes circuitos en serie-paralelo:
   
   (a) Una combinación en paralelo de tres ramas, cada rama con dos resistores en serie
