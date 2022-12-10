@@ -179,4 +179,15 @@ caída de voltaje.
 
   24. Con el teorema de Norton, determine la corriente que circula a través del resistor de carga RL en la figura 8-77.
 
+  28. En la figura 8-83, reduzca el circuito entre las terminales A y B a su equivalente Norton. 
+
+  ![image](https://user-images.githubusercontent.com/116693260/206823964-fefbdb32-b2b1-4d2d-99fb-6422af0746d7.png)
+
+  ![image](https://user-images.githubusercontent.com/116693260/206823974-db282945-8291-4acf-a85a-23c277308f1a.png)
+
+  ![image](https://user-images.githubusercontent.com/116693260/206823985-36c4bc9c-a1ec-48b5-b183-24bbc0b7b31a.png)
+
+  ![image](https://user-images.githubusercontent.com/116693260/206824082-d626101d-a30e-43f2-8543-739dc9d43a76.png)
+
+  ![image](https://user-images.githubusercontent.com/116693260/206824014-5872c01c-ee27-4049-b8fd-228ffa9aa555.png)
 
