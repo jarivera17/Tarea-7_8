@@ -58,6 +58,12 @@ OBJETIVOS ESPECÍFICOS
   ![image](https://user-images.githubusercontent.com/116693260/205919497-412d0a42-53bb-400d-a3a4-65482770039a.png)
 
   4. En cada uno de los circuitos de la figura 7-63, identifique las relaciones en serie-paralelo de los resistores vistas desde la fuente.
+
+  ![image](https://user-images.githubusercontent.com/116693260/206861775-c06a565e-4396-443a-889b-575c3a06d33a.png)
+
+  ![image](https://user-images.githubusercontent.com/116693260/206861779-348e67b2-b5c1-4b7f-945f-962186d9382c.png)
+
+  ![image](https://user-images.githubusercontent.com/116693260/206861789-7a7a9b72-4297-4708-a26d-509227649cd6.png)
   
   SECCIÓN 7–2 Análisis de circuitos resistivos en serie-paralelo
   
@@ -191,6 +197,14 @@ caída de voltaje.
   SECCIÓN 8–6 Teorema de Norton
 
   24. Con el teorema de Norton, determine la corriente que circula a través del resistor de carga RL en la figura 8-77.
+  
+  ![image](https://user-images.githubusercontent.com/116693260/206862040-d8467bc7-b849-4cfd-a8df-5e7afb1aa23c.png)
+
+  ![image](https://user-images.githubusercontent.com/116693260/206862054-ef6b27ed-69f5-4cdb-a184-8eb1259dad30.png)
+
+  ![image](https://user-images.githubusercontent.com/116693260/206862124-f1fe2884-7c60-4fd7-8709-30e3bd40d4e4.png)
+
+  ![image](https://user-images.githubusercontent.com/116693260/206862137-af9d4ace-2554-424a-992b-1a5026069eab.png)
 
   28. En la figura 8-83, reduzca el circuito entre las terminales A y B a su equivalente Norton. 
 
