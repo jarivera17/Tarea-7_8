@@ -54,6 +54,19 @@
 
   10. Repita el problema 9 para cada uno de los circuitos mostrados en la figura 7-63.
   
+  ![image](https://user-images.githubusercontent.com/116693260/206819132-d46fd03e-e6ca-495a-b1a6-ffd5b8c946f5.png)
+
+  ![image](https://user-images.githubusercontent.com/116693260/206819144-6f5500c5-159b-425b-b168-b958d94a5484.png)
+  
+  ![image](https://user-images.githubusercontent.com/116693260/206819176-e0ec43eb-af98-4234-a6d4-c40ab9250eef.png)
+
+  ![image](https://user-images.githubusercontent.com/116693260/206819351-e4d2feeb-b14e-49d3-97a5-93f6927dd510.png)
+
+  ![image](https://user-images.githubusercontent.com/116693260/206819365-b9904571-401d-4804-a1c0-871a3258e764.png)
+
+  ![image](https://user-images.githubusercontent.com/116693260/206819380-027d7941-43a4-4cbc-9ad8-fd08fc2dc4eb.png)
+
+  
   12. Determine la corriente a través de cada resistor en cada circuito de la figura 7-63; luego calcule cada
 caída de voltaje.
 
@@ -69,23 +82,55 @@ caída de voltaje.
   
   ![image](https://user-images.githubusercontent.com/116693260/205959622-f4660431-9f9f-4238-bd2c-0176bbc25b00.png)
   
+  ![image](https://user-images.githubusercontent.com/116693260/206819927-0118d047-c919-468e-9955-715b9348b7bd.png)
+
+  ![image](https://user-images.githubusercontent.com/116693260/206819944-fc14e7f4-4a32-43b1-a58f-972ecb9a756b.png)
+  
   20. Determine el voltaje, VAB, en la figura 7-69.
   
   ![image](https://user-images.githubusercontent.com/116693260/205973652-465000b8-ec0a-4b43-bf4e-489a66f12f86.png)
   
+  SECCIÓN 7–3 Divisores de voltaje con cargas resistivas
+
+  26. La salida de una batería de 12 V se divide para obtener dos voltajes de salida. Se utilizan tres resistores de 3.3 kΩ para proporcionar dos tomas. Determine los voltajes de salida. Si se conecta una carga de 10 kΩ a la más alta de las salidas, ¿cuál será su valor con carga?
+
+  ![image](https://user-images.githubusercontent.com/116693260/206820522-5faddc57-7e5f-4ee1-b76e-8b41eed914ff.png)
+
+  ![image](https://user-images.githubusercontent.com/116693260/206820557-21488084-b1c2-4956-8b9a-ebb97ce4731e.png)
+
+  ![image](https://user-images.githubusercontent.com/116693260/206820580-6b77e03a-558e-4bd8-b9ef-45e62a99db77.png)
+    
   28. En la figura 7-74, determine el voltaje de salida sin carga entre las terminales de salida. Con una carga de 100 kΩ conectada de A a B, ¿cuál es el voltaje de salida? 
 
+  ![image](https://user-images.githubusercontent.com/116693260/206820704-3caf75e7-ebf0-464e-84ed-ef10f46e5a40.png)
+
+  ![image](https://user-images.githubusercontent.com/116693260/206820714-9aa39c8f-0ae6-45d0-a8d0-c16f2a0add76.png)
+
   30. En la figura 7-74, determine la corriente continua extraída de la fuente sin carga entre las terminales de salida. Con una carga de 33 kΩ, ¿cuál es la corriente extraída? 
+  
+  ![image](https://user-images.githubusercontent.com/116693260/206821048-13a48361-4185-46ac-bf4e-23bff60ab700.png)
+
+  ![image](https://user-images.githubusercontent.com/116693260/206821059-b24c94eb-1bec-470e-bfa7-2cd5e9264e8b.png)
+
+  ![image](https://user-images.githubusercontent.com/116693260/206821071-576966dd-7806-4cdb-aeba-b60978e20b1e.png)
   
   32. El divisor de voltaje de la figura 7-75 tiene una carga controlada por interruptor. Determine el voltaje en cada toma (V1 , V2 y V3 ) para cada posición del interruptor. 
   
   ![image](https://user-images.githubusercontent.com/116693260/206041314-4234e817-a65a-47c9-a729-39a0e7d9891a.png)
+
+  ![image](https://user-images.githubusercontent.com/116693260/206821231-b069c368-b625-4dc2-9a22-97443dc8a88c.png)
+
+  ![image](https://user-images.githubusercontent.com/116693260/206821250-2c1c0705-e7e9-4aed-b326-4590032ee7b1.png)
 
   SECCIÓN 7–5 Redes en escalera 
   
   40. Determine la resistencia total y el voltaje en los nodos A, B y C de la red en escalera mostrada en la figura 7-78.
 
   ![image](https://user-images.githubusercontent.com/116693260/206177997-7b828724-b98e-4b01-9821-e61c33eb0518.png)
+  
+  ![image](https://user-images.githubusercontent.com/116693260/206821402-b5b50268-636c-4f95-8202-6f25814cbf6e.png)
+
+  ![image](https://user-images.githubusercontent.com/116693260/206821410-0c13673f-969d-4011-b782-6db5f38d219d.png)
   
   42. En la figura 7-79, ¿cuál es el voltaje entre los extremos de cada resistor con 10 V entre A y B?
   
