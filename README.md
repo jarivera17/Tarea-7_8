@@ -191,7 +191,38 @@ caída de voltaje.
   ![image](https://user-images.githubusercontent.com/116693260/206360287-e7ec3851-110d-43e0-899e-ca4a237d3205.png)
 
   10. Con el teorema de superposición, determine la corriente de carga en cada uno de los circuitos mostrados en la figura 8-71. 
-  
+
+  ![image](https://user-images.githubusercontent.com/116693260/206869100-2751577f-2898-4ff4-87a7-4d0330f41710.png)
+
+  ![image](https://user-images.githubusercontent.com/116693260/206869252-22dcd4d2-b6c0-46d6-89be-ef178c2b6009.png)
+
+  ![image](https://user-images.githubusercontent.com/116693260/206869180-f1cc02ba-aaf8-4166-a9df-cfdd2c0e550f.png)
+
+  ![image](https://user-images.githubusercontent.com/116693260/206869238-eba0f8c8-b65b-4103-add4-abec0f3c5c4e.png)
+
+
+  SECCIÓN 8–5 Teorema de Thevenin 
+
+  16. Para cada uno de los circuitos de la figura 8-76, determine el equivalente de Thevenin como se ve desde las terminales A y B.
+
+  ![image](https://user-images.githubusercontent.com/116693260/206862292-5dcbb1f9-7333-426a-811c-a97917766678.png)
+
+  ![image](https://user-images.githubusercontent.com/116693260/206862325-642fdff8-ba98-404b-813a-c3916c700665.png)
+
+  ![image](https://user-images.githubusercontent.com/116693260/206862367-b51d910a-678e-435f-a17a-58b58e8a65e8.png)
+
+  ![image](https://user-images.githubusercontent.com/116693260/206862432-febf3b81-8b07-4926-9694-73edb00a80ce.png)
+
+  ![image](https://user-images.githubusercontent.com/116693260/206862445-6e1db97c-1d71-4f97-8a30-7c0cc0c4ca41.png)
+
+  ![image](https://user-images.githubusercontent.com/116693260/206862461-c65f9dd0-69fc-4ce2-b7f0-e4e363c01c5a.png)
+
+  ![image](https://user-images.githubusercontent.com/116693260/206862473-86127289-a574-4975-8dbf-31222f1c3608.png)
+
+  ![image](https://user-images.githubusercontent.com/116693260/206862487-b2441793-ffaa-42b6-9f43-cce49e19726b.png)
+
+  *18. Con el teorema de Thevenin, determine el voltaje entre los extremos de R4 en la figura 8-78. 
+    
   22. Determine el equivalente de Thevenin del circuito mostrado en la figura 8-82 visto desde las terminales A y B. 
   
   SECCIÓN 8–6 Teorema de Norton
