@@ -1,3 +1,16 @@
+Nombre: Rivera Joshua
+
+NRC: 10063
+
+Docente : Ing. Darwin Alulema
+
+Informe : Tarea 7 y 8
+
+OBJETIVOS
+OBJETIVO GENERAL
+
+OBJETIVOS ESPECÍFICOS
+
 ![1](https://user-images.githubusercontent.com/116693260/206773795-e95c103f-fa9e-42d3-a866-a8de897ab22a.jpg)
 
 ![2](https://user-images.githubusercontent.com/116693260/206773800-2cf6de3d-2daa-4f29-accc-6b2b2bb60515.jpg)
