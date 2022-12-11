@@ -187,8 +187,18 @@ caída de voltaje.
   SECCIÓN 8–4 El teorema de superposición 
 
   8. Use el teorema de superposición para determinar la corriente a través, y el voltaje entre, los extremos de la rama R2 de la figura 8-69.
-
+   
   ![image](https://user-images.githubusercontent.com/116693260/206360287-e7ec3851-110d-43e0-899e-ca4a237d3205.png)
+  
+  ![image](https://user-images.githubusercontent.com/116693260/206882569-92248cfa-0cd7-49a2-ab56-8b150170a056.png)
+
+  ![image](https://user-images.githubusercontent.com/116693260/206882611-0b5aea2f-f3ef-4953-b871-8148d819a320.png)
+
+  ![image](https://user-images.githubusercontent.com/116693260/206882618-d5c295b5-a603-4927-923c-79d8b932d544.png)
+
+  ![image](https://user-images.githubusercontent.com/116693260/206882626-f1c1bd81-e4bd-4970-8266-d5df3ab741dd.png)
+
+  ![image](https://user-images.githubusercontent.com/116693260/206882634-c51c2685-5cc0-4fd6-b1f5-6072755b0694.png)
 
   10. Con el teorema de superposición, determine la corriente de carga en cada uno de los circuitos mostrados en la figura 8-71. 
 
@@ -199,7 +209,10 @@ caída de voltaje.
   ![image](https://user-images.githubusercontent.com/116693260/206869180-f1cc02ba-aaf8-4166-a9df-cfdd2c0e550f.png)
 
   ![image](https://user-images.githubusercontent.com/116693260/206869238-eba0f8c8-b65b-4103-add4-abec0f3c5c4e.png)
-
+  
+  14. Los interruptores mostrados en la figura 8-74 se cierran en secuencia, SW1 primero. Determine la corriente a través de R4 después del cierre de cada interruptor. 
+  
+  
 
   SECCIÓN 8–5 Teorema de Thevenin 
 
