@@ -249,3 +249,28 @@ caída de voltaje.
 
   ![image](https://user-images.githubusercontent.com/116693260/206824014-5872c01c-ee27-4049-b8fd-228ffa9aa555.png)
 
+  SECCIÓN 8–7 Teorema de transferencia de potencia máxima 
+
+  30. En cada circuito mostrado en la figura 8-85, se tiene que transferir potencia máxima a la carga RL. Determine el valor apropiado de RL en cada caso. 
+
+  ![image](https://user-images.githubusercontent.com/116693260/206871183-a5826acb-64e2-4c85-a1b7-454fe66950d3.png)
+
+  ![image](https://user-images.githubusercontent.com/116693260/206871192-e3c58f61-34f3-4480-831a-f486e33aa1e3.png)
+
+  ![image](https://user-images.githubusercontent.com/116693260/206871217-81a01ee3-19c4-41d6-ad1e-428fdd0e88aa.png)
+
+  32. ¿Cuánta potencia se suministra a la carga cuando RL es un 10% más alta que su valor para transferencia de potencia máxima en el circuito de la figura 8-86?
+
+  ![image](https://user-images.githubusercontent.com/116693260/206871259-14b4fd1f-c3a5-473c-8396-3d0d892e5604.png)
+
+  SECCIÓN 8–8 Conversiones delta a Y (D a Y) y Y a D 
+
+  34. En la figura 8-88, convierta cada red delta en una red Y. 
+
+  ![image](https://user-images.githubusercontent.com/116693260/206879694-ed8c99ba-ee75-4b46-b89c-d333d3781f1f.png)
+
+  ![image](https://user-images.githubusercontent.com/116693260/206879704-041196d1-e8f0-4a9e-a6b5-1bb72998fb03.png)
+
+  * 36. Determine todas las corrientes que circulan en el circuito de la figura 8-90.
+  
+  
