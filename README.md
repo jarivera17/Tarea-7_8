@@ -212,7 +212,27 @@ caída de voltaje.
   
   14. Los interruptores mostrados en la figura 8-74 se cierran en secuencia, SW1 primero. Determine la corriente a través de R4 después del cierre de cada interruptor. 
   
-  
+  ![image](https://user-images.githubusercontent.com/116693260/206887244-3a788c36-4ff2-4181-a3bf-9315e62cb6ca.png)
+
+  ![image](https://user-images.githubusercontent.com/116693260/206887142-3196a4d0-f35b-4816-b85b-938931917f8a.png)
+
+  ![image](https://user-images.githubusercontent.com/116693260/206887147-23972300-1e62-4704-8b04-f34d21cf2959.png)
+
+  ![image](https://user-images.githubusercontent.com/116693260/206887154-b72138d8-5787-4ddd-ab8f-75882b1f7cad.png)
+
+  ![image](https://user-images.githubusercontent.com/116693260/206887157-65f0c7ed-7afe-41a8-bf15-152614fb77b2.png)
+
+  ![image](https://user-images.githubusercontent.com/116693260/206887182-39453889-bab1-4dc7-aa21-757d76badcf8.png)
+
+  ![image](https://user-images.githubusercontent.com/116693260/206887194-2834b27b-ad5e-44bf-a330-dbe9162161d2.png)
+
+  ![image](https://user-images.githubusercontent.com/116693260/206887204-e7bfb9bf-8830-4ee0-bab2-e4b083c7cc51.png)
+
+  ![image](https://user-images.githubusercontent.com/116693260/206887207-cc171376-c7a2-430a-9780-715aa4fba282.png)
+
+  ![image](https://user-images.githubusercontent.com/116693260/206887220-739748e3-ddf1-446e-bcc5-82a9d947e244.png)
+
+  ![image](https://user-images.githubusercontent.com/116693260/206887225-5e0b3b4a-a42b-427a-9721-870b8fc71273.png)
 
   SECCIÓN 8–5 Teorema de Thevenin 
 
