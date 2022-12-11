@@ -273,4 +273,14 @@ caída de voltaje.
 
   *36. Determine todas las corrientes que circulan en el circuito de la figura 8-90.
   
+  ![image](https://user-images.githubusercontent.com/116693260/206882415-d2a4deba-2f11-49e4-a337-b1ade3f1a625.png)
+
+  ![image](https://user-images.githubusercontent.com/116693260/206882424-193f4a6a-45cc-488e-b7b4-d6137dfde33e.png)
+
+  ![image](https://user-images.githubusercontent.com/116693260/206882429-47d4d0c1-d4eb-4821-9edd-b2b1269321ec.png)
+
+  ![image](https://user-images.githubusercontent.com/116693260/206882444-de01787d-ea43-4c3d-a57b-a21915d0d7b3.png)
+
+  ![image](https://user-images.githubusercontent.com/116693260/206882455-6a71499e-144e-4f36-8944-b38ccb0416cf.png)
+
   
