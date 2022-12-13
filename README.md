@@ -362,5 +362,10 @@ caída de voltaje.
   
   CONCLUSIONES
   
-  * Se ha podido reconoce la  forma en la que se relaciona cada resistor incluido en un circuito dado, con los demás resistores; y determinar las relaciones en serie y en paralelo en una tarjeta de circuito impreso.
+  * En síntesis, en un circuito, en este caso, resistivo, pueden existir combinaciones dispuestas en serie, que a su vez dichas combinaciones pueden encontrarse de forma paralela respecto a otra combinación de resistores, y, principalmente se debe saber reconocer muy bien cada una de las relaciones existentes en el circuito, siempre desde un punto de vista, es decir, con respecto a una fuente de voltaje, a dos terminales, etc.; y de tal forma, al reconocer dichas relaciones serie-paralelo, se puede ir simplificando el circuito, con el objeto de que su análisis sea más sencillo, pudiendo determinar la resistencia total, todas las corrientes y todas las caídas de voltaje.
+
+  * Se ha denotado que en un divisor de voltaje sometido a una carga, su voltaje de salida reduce, y a su vez, el resistor de carga que está conectado en paralelo a un resistor del divisor de voltaje, reduce su resistencia, y, en consecuencia, también se reduce el voltaje entre los extremos de dicha combinación en paralelo; además, se ha aprendido que la corriente remanente es la corriente que queda después de restar la corriente de carga total del total de corriente presente en el circuito.
+
+  * Se a determinado que debido a su resistencia interna, un voltímetro aplica carga al circuito y afectará, en cierto grado, el voltaje que se esté midiendo, por consiguiente, Cuando la resistencia interna del voltímetro no es suficientemente más grande que la resistencia del circuito entre los extremos del cual está conectado, el efecto de carga hará que el voltaje medido sea menor que su valor real.
+
   *  
