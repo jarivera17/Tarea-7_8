@@ -203,6 +203,8 @@ caída de voltaje.
   (b) Interruptor SW1 conectado a 112 V y los demás conectados a tierra
   
   ![image](https://user-images.githubusercontent.com/116693260/206286028-bba9ac0c-304b-4e7f-ade6-96e56a16c8d5.png)
+  
+  ![image](https://user-images.githubusercontent.com/116693260/207441906-270b1773-7ee2-4651-ba0c-a4a3d72035e6.png)
 
   PROBLEMAS CAPÍTULO 8
   
