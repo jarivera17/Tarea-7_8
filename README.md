@@ -14,8 +14,7 @@ Estudiar y comprender la base teórica y a su vez, resolver los ejercicios de ap
 
 OBJETIVOS ESPECÍFICOS
 
-*  Identificar las relaciones en serie-paralelo.
-*  Analizar circuitos en serie paralelo, determinar la resistencia total, todas las corrientes y todas las caídas de voltaje.
+*  Identificar las relaciones en serie-paralelo, para así, analizar circuitos en serie paralelo, determinar la resistencia total, todas las corrientes y todas las caídas de voltaje.
 *  Analizar divisores de voltaje sometidos a carga y determinar el efecto de una carga resistiva en un circuito divisor de voltaje; así tambien, aprender acerca de corriente remanente.
 *  Determinar el efecto de carga de un voltímetro en un circuito, explicar por qué un voltímetro puede cargar un circuito y analizar la resistencia interna de un voltímetro.
 *  Analizar redes en escalera, determinar los voltajes en una red en escalera de tres escalones, y analizar una escalera R/2R.
