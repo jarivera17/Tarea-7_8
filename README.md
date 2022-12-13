@@ -73,9 +73,9 @@ OBJETIVOS ESPECÍFICOS
 
   10. Repita el problema 9 para cada uno de los circuitos mostrados en la figura 7-63.
   
-  ![image](https://user-images.githubusercontent.com/116693260/206819132-d46fd03e-e6ca-495a-b1a6-ffd5b8c946f5.png)
+  ![image](https://user-images.githubusercontent.com/116693260/207227479-919fd25b-35a0-49ce-afb8-f0d8cbc57be2.png)
 
-  ![image](https://user-images.githubusercontent.com/116693260/206819144-6f5500c5-159b-425b-b168-b958d94a5484.png)
+  ![image](https://user-images.githubusercontent.com/116693260/207227562-72d6d47b-72ea-411d-96ae-52e8267980f0.png)
   
   ![image](https://user-images.githubusercontent.com/116693260/206819176-e0ec43eb-af98-4234-a6d4-c40ab9250eef.png)
 
@@ -84,11 +84,24 @@ OBJETIVOS ESPECÍFICOS
   ![image](https://user-images.githubusercontent.com/116693260/206819365-b9904571-401d-4804-a1c0-871a3258e764.png)
 
   ![image](https://user-images.githubusercontent.com/116693260/206819380-027d7941-43a4-4cbc-9ad8-fd08fc2dc4eb.png)
-
-  
+   
   12. Determine la corriente a través de cada resistor en cada circuito de la figura 7-63; luego calcule cada
 caída de voltaje.
 
+  ![image](https://user-images.githubusercontent.com/116693260/207230055-7f64540e-d28e-4eb1-b8ec-3553f18abb98.png)
+
+  ![image](https://user-images.githubusercontent.com/116693260/207227287-cb759225-1994-4643-941a-f33640d69bca.png)
+
+  ![image](https://user-images.githubusercontent.com/116693260/207227383-dcdc7913-6189-4a42-adc1-02726c2d1377.png)
+  
+  ![image](https://user-images.githubusercontent.com/116693260/207231283-55d8c4bb-7d53-454f-ae9d-d17b5567c1ff.png)
+  
+  ![image](https://user-images.githubusercontent.com/116693260/207233819-61e95c45-efc2-4b08-8590-205bc2fd4878.png)
+
+  ![image](https://user-images.githubusercontent.com/116693260/207233868-4a2656b4-14f1-4efb-8bf7-ce1f746471e4.png)
+
+  ![image](https://user-images.githubusercontent.com/116693260/207233908-5a4f3cee-ec44-476c-b0bb-a3ea537e9521.png)
+  
   14. Determine la resistencia entre A y B en la figura 7-67 sin la fuente.
   
   ![image](https://user-images.githubusercontent.com/116693260/205959622-f4660431-9f9f-4238-bd2c-0176bbc25b00.png)
