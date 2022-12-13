@@ -368,4 +368,6 @@ caída de voltaje.
 
   * Se a determinado que debido a su resistencia interna, un voltímetro aplica carga al circuito y afectará, en cierto grado, el voltaje que se esté midiendo, por consiguiente, Cuando la resistencia interna del voltímetro no es suficientemente más grande que la resistencia del circuito entre los extremos del cual está conectado, el efecto de carga hará que el voltaje medido sea menor que su valor real.
 
-  *  
+  BIBLIOGRAFÍA
+
+  * Floyd, T. L. (2007). Principios de Circuitos Electricos. Mexico: Pearson Educacion
