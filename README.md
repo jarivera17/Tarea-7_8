@@ -122,12 +122,16 @@ caída de voltaje.
   ![image](https://user-images.githubusercontent.com/116693260/207233908-5a4f3cee-ec44-476c-b0bb-a3ea537e9521.png)
   
   14. Determine la resistencia entre A y B en la figura 7-67 sin la fuente.
-  
-  ![image](https://user-images.githubusercontent.com/116693260/205959622-f4660431-9f9f-4238-bd2c-0176bbc25b00.png)
+    
+  ![image](https://user-images.githubusercontent.com/116693260/207406198-ff3f20fd-2c7e-406a-97c5-248ab6d27c2b.png)
 
   16. Determine el voltaje en cada nodo con respecto a tierra en la figura 7-68.
 
-  ![image](https://user-images.githubusercontent.com/116693260/205959414-2fe38a6c-9c02-4daf-84f0-d74f7174f726.png)
+  ![image](https://user-images.githubusercontent.com/116693260/207417979-93636a55-db77-4abc-a99d-2ce1fc800342.png)
+
+  ![image](https://user-images.githubusercontent.com/116693260/207418027-9d9b9984-324c-45d9-84fc-5daf76bcfbb7.png)
+
+  ![image](https://user-images.githubusercontent.com/116693260/207418095-32b06055-bf15-4e6b-9351-5fb8c738f8be.png)
 
   18. Determine la resistencia del circuito mostrado en la figura 7-67 como se ve desde la fuente de voltaje.
   
@@ -186,6 +190,12 @@ caída de voltaje.
   42. En la figura 7-79, ¿cuál es el voltaje entre los extremos de cada resistor con 10 V entre A y B?
   
   ![image](https://user-images.githubusercontent.com/116693260/206217893-3034f317-3bfc-493f-aeab-276a01a3a5c2.png)
+  
+  ![image](https://user-images.githubusercontent.com/116693260/207441091-e195a538-3c4a-4352-9047-565e95c3df35.png)
+
+  ![image](https://user-images.githubusercontent.com/116693260/207441041-5f3dd1df-c0f8-4bc7-b74a-d9d921fc83cf.png)
+
+  ![image](https://user-images.githubusercontent.com/116693260/207441164-a556259b-0e03-4620-b7b6-d72dfacbda4b.png)  
 
   44. Determine VSALIDA para la red R/2R en escalera mostrada en la figura 7-81 para las siguientes condiciones: 
 
