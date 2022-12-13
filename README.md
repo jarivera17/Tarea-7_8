@@ -11,6 +11,22 @@ OBJETIVO GENERAL
 
 OBJETIVOS ESPECÍFICOS
 
+*  Identificar las relaciones en serie-paralelo.
+*  Analizar circuitos en serie paralelo, determinar la resistencia total, todas las corrientes y todas las caídas de voltaje.
+*  Analizar divisores de voltaje sometidos a carga y determinar el efecto de una carga resistiva en un circuito divisor de voltaje; así tambien, aprender acerca de corriente remanente.
+*  Determinar el efecto de carga de un voltímetro en un circuito, explicar por qué un voltímetro puede cargar un circuito y analizar la resistencia interna de un voltímetro.
+*  Analizar redes en escalera, determinar los voltajes en una red en escalera de tres escalones, y analizar una escalera R/2R.
+*  Analizar y aplicar un puente Wheatstone para de tal forma, determinar cuándo está equilibrado un puente, determinar una resistencia desconocida con un puente equilibrado, determinar cuándo está desequilibrado un puente, analizar mediciones realizadas con un puente desequilibrado.
+* Localizar fallas en circuitos en serie-paralelo, determinar los efectos de una abertura en un circuito, determinar los efectos de un corto en un circuito, localizar aberturas y cortos.
+* Describir las características de una fuente de voltaje de cd, comparar una fuente de voltaje práctica con una fuente ideal y analizar el efecto de carga en una fuente de voltaje práctica.
+* Describir las características de una fuente de corriente, comparar una fuente de corriente práctica con una fuente ideal, analizar el efecto de carga en una fuente de corriente práctica.
+* Realizar conversiones de fuente, convertir una fuente de voltaje en una fuente de corriente y viceversa; además de conocer acerca de equivalencia terminal.
+* Conocer y aplicar el teorema de superposición al análisis de circuitos.
+* Conocer y aplicar el teorema de Thevenin para simplificar un circuito para su análisis, describir la forma de un circuito equivalente de Thevenin, obtener la fuente de voltaje equivalente de Thevenin y la resistencia equivalente de Thevenin.
+* Conocer y aplicar el teorema de Norton para simplificar un circuito, describir la forma de un circuito equivalente Norton, obtener la fuente de corriente equivalente Norton y la resistencia equivalente Norton.
+* Conocer y aplicar el teorema de transferencia de potencia máxima y determinar el valor de la resistencia de carga con la cual se transfiere la potencia máxima desde un circuito dado.
+* Aprender sobre las configuraciones Deta Y; y Realizar conversiones delta a Y y viceversa; así también, aplicar la conversión Delta a Y a un circuito puente. 
+
 ![1](https://user-images.githubusercontent.com/116693260/206773795-e95c103f-fa9e-42d3-a866-a8de897ab22a.jpg)
 
 ![2](https://user-images.githubusercontent.com/116693260/206773800-2cf6de3d-2daa-4f29-accc-6b2b2bb60515.jpg)
@@ -330,3 +346,7 @@ caída de voltaje.
   ![image](https://user-images.githubusercontent.com/116693260/206882455-6a71499e-144e-4f36-8944-b38ccb0416cf.png)
 
   
+  CONCLUSIONES
+  
+  * Se ha podido reconoce la  forma en la que se relaciona cada resistor incluido en un circuito dado, con los demás resistores; y determinar las relaciones en serie y en paralelo en una tarjeta de circuito impreso.
+  *  
