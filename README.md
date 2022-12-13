@@ -6,8 +6,11 @@ Docente : Ing. Darwin Alulema
 
 Informe : Tarea 7 y 8
 
-OBJETIVOS
+1. OBJETIVOS
+
 OBJETIVO GENERAL
+
+Estudiar y comprender la base teórica y a su vez, resolver los ejercicios de aplicación de los capítulos 7 y 8 del libro "Principios de circuitos eléctricos" de Floyd, a los cuales corresponden los temas: "Circuitos en serie-paralelo" y "Teoremas de circuitos y conversiones", analizando cada subtema respectivo, en lo que involucra: definiciones, fórmulas y aplicaciones.
 
 OBJETIVOS ESPECÍFICOS
 
