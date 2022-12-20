@@ -29,6 +29,8 @@ OBJETIVOS ESPECÍFICOS
 * Conocer y aplicar el teorema de transferencia de potencia máxima y determinar el valor de la resistencia de carga con la cual se transfiere la potencia máxima desde un circuito dado.
 * Aprender sobre las configuraciones Deta Y; y Realizar conversiones delta a Y y viceversa; así también, aplicar la conversión Delta a Y a un circuito puente. 
 
+2. MARCO TEÓRICO (RESUMEN)
+
 ![1](https://user-images.githubusercontent.com/116693260/206773795-e95c103f-fa9e-42d3-a866-a8de897ab22a.jpg)
 
 ![2](https://user-images.githubusercontent.com/116693260/206773800-2cf6de3d-2daa-4f29-accc-6b2b2bb60515.jpg)
@@ -64,6 +66,8 @@ OBJETIVOS ESPECÍFICOS
 ![17](https://user-images.githubusercontent.com/116693260/206773865-41ab6ffd-888b-44f6-b04f-2ca9d845b568.jpg)
 
 ![18](https://user-images.githubusercontent.com/116693260/206773868-bc113c71-3dfe-4215-b1ef-73d2a17f4a95.jpg)
+
+3. EXPLICACION Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
   2. Visualice y trace los siguientes circuitos en serie-paralelo:
   
@@ -359,11 +363,11 @@ caída de voltaje.
 
   ![image](https://user-images.githubusercontent.com/116693260/206882455-6a71499e-144e-4f36-8944-b38ccb0416cf.png)
 
-  VIDEO
+  4. VIDEO
   
   https://uespe-my.sharepoint.com/:v:/g/personal/jarivera17_espe_edu_ec/EcecmXWxeKtOg49XI5XNyXUBQGE_-TMLM2fmoL0fXI_NZA?e=c2pGjp
   
-  CONCLUSIONES
+  5. CONCLUSIONES
   
   * En síntesis, en un circuito, en este caso, resistivo, pueden existir combinaciones dispuestas en serie, que a su vez dichas combinaciones pueden encontrarse de forma paralela respecto a otra combinación de resistores, y, principalmente se debe saber reconocer muy bien cada una de las relaciones existentes en el circuito, siempre desde un punto de vista, es decir, con respecto a una fuente de voltaje, a dos terminales, etc.; y de tal forma, al reconocer dichas relaciones serie-paralelo, se puede ir simplificando el circuito, con el objeto de que su análisis sea más sencillo, pudiendo determinar la resistencia total, todas las corrientes y todas las caídas de voltaje.
 
