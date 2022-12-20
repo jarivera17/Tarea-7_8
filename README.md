@@ -359,6 +359,9 @@ caída de voltaje.
 
   ![image](https://user-images.githubusercontent.com/116693260/206882455-6a71499e-144e-4f36-8944-b38ccb0416cf.png)
 
+  VIDEO
+  
+  https://uespe-my.sharepoint.com/:v:/g/personal/jarivera17_espe_edu_ec/EcecmXWxeKtOg49XI5XNyXUBQGE_-TMLM2fmoL0fXI_NZA?e=c2pGjp
   
   CONCLUSIONES
   
@@ -367,7 +370,21 @@ caída de voltaje.
   * Se ha denotado que en un divisor de voltaje sometido a una carga, su voltaje de salida reduce, y a su vez, el resistor de carga que está conectado en paralelo a un resistor del divisor de voltaje, reduce su resistencia, y, en consecuencia, también se reduce el voltaje entre los extremos de dicha combinación en paralelo; además, se ha aprendido que la corriente remanente es la corriente que queda después de restar la corriente de carga total del total de corriente presente en el circuito.
 
   * Se a determinado que debido a su resistencia interna, un voltímetro aplica carga al circuito y afectará, en cierto grado, el voltaje que se esté midiendo, por consiguiente, Cuando la resistencia interna del voltímetro no es suficientemente más grande que la resistencia del circuito entre los extremos del cual está conectado, el efecto de carga hará que el voltaje medido sea menor que su valor real.
+  
+  * Se afirma que, tanto las redes en escalera como las R/2R, comprenden un análisis muy similar, para determinar, en el caso de la red en escalera, voltajes en los respectivos nodos, y corriente; y en la escalera R2/R, la salida de voltaje, además de que, debido a su particular configuración (escalera R/2R), estas presentan fórmulas específicas para hallar la salida de voltaje.
+  
+  * En síntesis, un puente Wheatstone, es como tal, un circuito serie-paralelo con una configuración específica, tal que, se emplea en diversas aplicaciones, por ejemplo, en su estado desequilibrado, es utilizado para medir varios tipos de cantidades físicas tales como deformación mecánica, temperatura, o presión.  
 
+  * Se ha determinado, además de aberturas o cortos completos, en un circuito se pueden desarrollar aberturas o cortos parciales, en este aspecto, una abertura parcial provoca una resistencia más alta de lo normal, pero no infinitamente grande, y, un corto parcial produce una resistencia más baja de lo normal, pero no de cero.
+  
+  * Englobando los temas de fuentes de voltaje y corriente, se ha determinado que, todas las fuentes de voltaje tienen algo de resistencia interna inherente a consecuencia de su composición física o química; por otro lado, la resistencia interna de la fuente de voltaje ideal es de cero, y la fuente de corriente ideal tiene una resistencia interna en paralelo que es infinitamente grande; sin embargo, es importante recalcar que, tanto las fuentes de voltaje y de corriente ideales, no existen. 
+  
+  * En conclusión, los teoremas de análisis de circuitos: Superposición, Norton y Thevenin, permiten, en el caso de los dos últimos, simplificar un circuito, por más complejo que sea; y estos dos últimos, pueden ser complementados con el teorema de superposición, mismo que permite analizar un circuito eléctrico que cuente con múltiples fuentes de voltaje y de corriente. 
+
+  * En cuanto al teorema de transferencia de potencia máxima, se ha determinado que, esencialmente, cuando RL(Resistencia de caraga) = RS(Resistencia interna de la fuente de voltaje), la potencia máxima posible se transfiere desde la fuente de voltaje hasta RL con un valor dado de VS(Voltaje total). 
+
+  * Finalmente, en múltiples ocasiones, en diversos circuitos eléctricos, suelen presentarse relaciones serie-paralelo, con las cuales resulta altamente complejo llevar a cabo su análisis, por ejemplo, determinar la resistencia total; sin embargo, gracias a las configuraciones Delta e Y, se puede formar un circuito equivalente más sencillo de analizar; identificando, evidentemente, la parte del circuito, en la que resultará más conveniente aplicar la conversión respectiva.  
+  
   BIBLIOGRAFÍA
 
   * Floyd, T. L. (2007). Principios de Circuitos Electricos. Mexico: Pearson Educacion
