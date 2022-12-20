@@ -389,6 +389,6 @@ caída de voltaje.
 
   * Finalmente, en múltiples ocasiones, en diversos circuitos eléctricos, suelen presentarse relaciones serie-paralelo, con las cuales resulta altamente complejo llevar a cabo su análisis, por ejemplo, determinar la resistencia total; sin embargo, gracias a las configuraciones Delta e Y, se puede formar un circuito equivalente más sencillo de analizar; identificando, evidentemente, la parte del circuito, en la que resultará más conveniente aplicar la conversión respectiva.  
   
-  BIBLIOGRAFÍA
+  6. BIBLIOGRAFÍA
 
   * Floyd, T. L. (2007). Principios de Circuitos Electricos. Mexico: Pearson Educacion
